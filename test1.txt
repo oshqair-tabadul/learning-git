@@ -1,4 +1,5 @@
-hello first file...
+this is a fastest way to do the process flow
 
-sub main changes
-another sub main changes
+multiple changes have been made on the repo
+
+using command lines to take the advantagr of git
